@@ -1,7 +1,5 @@
 # Success Limited — Car Website
 
-A modern, responsive front-end redesign of the original Car Dealer project, built to deliver a cleaner visual experience, improved usability, and interactive vehicle browsing.
-
 ##  Overview
 
 Success Limited is a car dealership website concept featuring a modern interface for exploring vehicles, searching available listings, managing favourites, and making vehicle enquiries.
