@@ -1,4 +1,4 @@
-# Success Limited — Car Website Redesign
+# Success Limited — Car Website
 
 A modern, responsive front-end redesign of the original Car Dealer project, built to deliver a cleaner visual experience, improved usability, and interactive vehicle browsing.
 
